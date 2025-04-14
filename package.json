@@ -1,0 +1,23 @@
+{
+  "name": "@daygur/eslint-config-no-moment",
+  "version": "1.0.0",
+  "description": "Custom ESLint config to forbid the use of moment.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daygur/eslint-config-no-moment"
+  },
+  "keywords": ["eslint", "eslintconfig", "moment"],
+  "author": "Dagur Brabin <dagurbh22@ru.is>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daygur/eslint-config-no-moment/issues"
+  },
+  "homepage": "https://github.com/Daygur/eslint-config-no-moment#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
